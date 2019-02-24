@@ -65,8 +65,8 @@ dev:            false
 
 # Site name
 #
-# Default:      Almace Scaffolding
-name:           Almace Scaffolding
+# Default:      h.l.leona.lee
+name:           h.l.leona.lee
 
 # Site short name
 #
@@ -74,15 +74,15 @@ name:           Almace Scaffolding
 # You can also just use your `name` for `name_short` if it is short enough
 #
 # For example:
-# - name:       Almace Scaffolding
-# - name_short: AMSF
+# - name:       H L Leona Lee
+# - name_short: HLLL
 #
 # or:
-# - name:       Sparanoid Group
-# - name_short: Sparanoid
+# - name:       Glowing broccoli
+# - name_short: Glowing broccoli 
 #
-# Default:      AMSF
-name_short:     AMSF
+# Default:      HLLL
+name_short:     HLLL
 
 # Site description
 #
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        /my-project
 
 # Flatten base
 #
@@ -128,7 +128,7 @@ feed:           /feed.xml
 # Used in atom feed, sitemap, Twitter Cards, and etc. I should use absolute full
 # URLs for these fields
 #
-# Default:      https://sparanoid.com
+# Default:      https://h.l.leona.lee.com
 url:            https://h.l.leona.lee.com
 
 # Media assets URL
