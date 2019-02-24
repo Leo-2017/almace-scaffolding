@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           h.l.leona.lee
+name:           Almace Scaffolding
 
 # Site short name
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://h.l.leona.lee.com
 
 # Media assets URL
 #
